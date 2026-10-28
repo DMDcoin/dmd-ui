@@ -1,6 +1,11 @@
 # Diamond UI - Unified Platform for DMD Operations
 
 
+> [!IMPORTANT]
+> This repository is no longer maintained, and it is archived. Support for this project has been discontinued in favor of a new UI version [DMDCoin/diamond-ui](https://github.com/DMDcoin/diamond-ui).
+
+-------
+
 **Diamond UI** is a decentralized application designed to streamline operations, offering a comprehensive toolkit that promotes trust and stability in the DMD ecosystem.
 
 #### Key Features:
